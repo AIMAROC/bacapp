@@ -1,0 +1,36 @@
+{
+    "Mathématiques": {
+      "Algèbre": [
+        "Suites numériques",
+        "Logarithmes",
+        "Exponentielles",
+        "Nombres complexes"
+      ],
+      "Analyse": [
+        "Limites et continuité",
+        "Dérivation",
+        "Étude de fonctions",
+        "Intégration"
+      ],
+      "Géométrie": [
+        "Géométrie dans l'espace",
+        "Nombres complexes et géométrie"
+      ]
+    },
+    "Physique": {
+      "Mécanique": [
+        "Cinématique",
+        "Dynamique",
+        "Énergie mécanique"
+      ],
+      "Électricité": [
+        "Circuits électriques",
+        "Magnétisme",
+        "Induction électromagnétique"
+      ],
+      "Optique": [
+        "Optique géométrique",
+        "Optique ondulatoire"
+      ]
+    }
+  }
